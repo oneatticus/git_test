@@ -1,0 +1,1 @@
+This is Trent Madill's first git project!
